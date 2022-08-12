@@ -1,2 +1,2 @@
 # digital-clock
-clock  in real time
+clock  in real time , HTML, CSS, JAVASCRIPT 
